@@ -1,0 +1,28 @@
+.heading{
+    width: 100%;
+    font-size:20px;
+    margin-top:0px;
+    color:black;
+    box-shadow: 10px 10px 5px rgb(227, 240, 45);
+}
+
+.span{
+    font-size: 15px;
+    color:black ;
+}
+
+.footer{
+    line-height: 2;
+    position: fixed;
+    bottom: 0;
+    color: white;
+    background-color: rgb(24, 36, 204);
+    width: 100%;
+    text-align: center;
+}
+
+canvas{
+    border: 2px solid rgb(97, 46, 214);
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px rgb(15, 19, 15);
+}
